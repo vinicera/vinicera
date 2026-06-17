@@ -57,7 +57,7 @@
 
 <div align="center">
 
-![Vinícius’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicera&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=6366f1)
+![Vinícius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicera&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=6366f1)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicera&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af)
 
