@@ -9,7 +9,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-viniciusborelli.com.br-black?style=flat-square&logo=firefox&logoColor=white)](https://viniciusborelli.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-viniciusborelli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciusborelli)
-[![Gmail](https://img.shields.io/badge/Email-viniciusmb7@outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:viniciusmb7@outlook.com)
+[![Email](https://img.shields.io/badge/Email-viniciusmb7@outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:viniciusmb7@outlook.com)
 
 </div>
 
@@ -45,23 +45,16 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=flat-square&logo=heart&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 **AI & APIs**
 
-![Anthropic](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
------
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Vinícius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicera&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=6366f1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicera&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af)
-
-</div>
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6B4FBB?style=flat-square&logo=router&logoColor=white)
+![Open Code](https://img.shields.io/badge/Open_Code-FF6B35?style=flat-square&logo=code&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-1A1A2E?style=flat-square&logo=claws-mail&logoColor=white)
 
 -----
 
